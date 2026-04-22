@@ -6,17 +6,17 @@
   "config_category": "sales",
   "config_description": "The \"Low Hanging Fruit.\" They have the budget but need the tech.\n\nRestaurants well-established (Beam Score > 70) and performing (sentiments last 30 days > 10 that lack online reservation AND online ordering\n\nReady for technology adoption and modernization.",
   "config_name": "Tech-Ready Restaurants in the San Diego-Chula Vista-Carlsbad Metro Area, CA, US",
-  "export_job_id": "859527b3-554c-414a-9d2f-4ca15cadb67c",
+  "export_job_id": "5ebd4f5d-0b2a-4588-80ef-8d1ce9dd0fbd",
   "github_org": "Beamstation-Datasets",
   "id_short": 205124,
   "location_name": "San Diego-Chula Vista-Carlsbad, CA",
   "location_type": "metro",
   "repo_name": "tech-ready-restaurants-in-the-san-diego-chula-vista-carlsbad-metro-area-ca-us-sample-205124",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/205124/beamstation_205124_restaurants-us-sandiegochulavistacarlsbadca_SAMPLE_DIST.csv",
-  "sample_pct": 5.26,
+  "sample_pct": 9.09,
   "sample_records": 1,
-  "sample_sha256": "904a6c92bbcf8b43245c6951763aa8322338f3e08b8b47956b074e370d9ba9ac",
-  "sample_size_bytes": 19839,
-  "total_records": 19,
-  "updated_at": "2026-04-15T10:43:15.135057+00:00"
+  "sample_sha256": "b1653a0b10799a081d4b9d9ffa93cda5624e2556fc17dda938d911655b907e55",
+  "sample_size_bytes": 20108,
+  "total_records": 11,
+  "updated_at": "2026-04-22T18:39:00.465261+00:00"
 }
