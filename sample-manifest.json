@@ -1,12 +1,12 @@
 {
-  "export_job_id": "859527b3-554c-414a-9d2f-4ca15cadb67c",
+  "export_job_id": "5ebd4f5d-0b2a-4588-80ef-8d1ce9dd0fbd",
   "id_short": 205124,
-  "published_at": "2026-04-19T07:20:42Z",
+  "published_at": "2026-04-22T19:22:45Z",
   "repo_name": "tech-ready-restaurants-in-the-san-diego-chula-vista-carlsbad-metro-area-ca-us-sample-205124",
   "sample_asset_name": "beamstation_205124_restaurants-us-sandiegochulavistacarlsbadca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/205124/beamstation_205124_restaurants-us-sandiegochulavistacarlsbadca_SAMPLE_DIST.csv",
   "sample_records": 1,
-  "sample_sha256": "904a6c92bbcf8b43245c6951763aa8322338f3e08b8b47956b074e370d9ba9ac",
-  "sample_size_bytes": 19839,
-  "total_records": 19
+  "sample_sha256": "b1653a0b10799a081d4b9d9ffa93cda5624e2556fc17dda938d911655b907e55",
+  "sample_size_bytes": 20108,
+  "total_records": 11
 }
