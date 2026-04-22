@@ -9,9 +9,9 @@
 | Dataset ID | `205124` |
 | Location | San Diego-Chula Vista-Carlsbad, CA |
 | Category | Restaurants |
-| Full dataset size | 19 records |
-| Free sample size | 1 records (5.26%) |
-| Last export | 2026-04-15T10:43:15.135057+00:00 |
+| Full dataset size | 11 records |
+| Free sample size | 1 records (9.09%) |
+| Last export | 2026-04-22T18:39:00.465261+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-the-san-diego-chula-vista-carlsbad-metro-area-ca-us-sample-205124/releases/download/sample-latest/beamstation_205124_restaurants-us-sandiegochulavistacarlsbadca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
