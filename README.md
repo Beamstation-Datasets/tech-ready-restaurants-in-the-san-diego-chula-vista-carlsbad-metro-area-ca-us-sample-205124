@@ -1,6 +1,6 @@
 # Tech-Ready Restaurants in the San Diego-Chula Vista-Carlsbad Metro Area, CA, US
 
-> Free BeamStation sample export with 1 rows and masked direct-contact fields.
+> Free BeamStation sample export with 2 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `205124` |
 | Location | San Diego-Chula Vista-Carlsbad, CA |
 | Category | Restaurants |
-| Full dataset size | 11 records |
-| Free sample size | 1 records (9.09%) |
-| Last export | 2026-04-22T18:39:00.465261+00:00 |
+| Full dataset size | 27 records |
+| Free sample size | 2 records (7.41%) |
+| Last export | 2026-04-29T17:55:20.156816+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-the-san-diego-chula-vista-carlsbad-metro-area-ca-us-sample-205124/releases/download/sample-latest/beamstation_205124_restaurants-us-sandiegochulavistacarlsbadca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
